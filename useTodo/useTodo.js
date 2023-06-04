@@ -1,5 +1,5 @@
-import { useEffect, useReducer } from "react"
-import { todoReducer } from "../08-useReducer/todoReducer"
+import { useEffect, useReducer } from "react";
+import { todoReducer } from "./todoReducer";
 
 /**CARGA LO QUE ENCUENTRE EN EL LOCALSTORAGE */
 const pepitaLaPistolera = ()=>{
